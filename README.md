@@ -60,3 +60,5 @@ If you would like to contribute to the codebase, please refer to the [CONTRIBUTI
 ## About Us
 
 People+ai connects do-ers, dreamers, tinkerers and innovators with ideas & resources to build an ecosystem that can empower a billion people to reach their potential - [Know More](https://peopleplus.ai/)
+
+Made with ♥️ for 🇮🇳 by Team People+AI
